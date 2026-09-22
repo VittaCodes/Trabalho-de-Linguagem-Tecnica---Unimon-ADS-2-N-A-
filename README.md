@@ -77,6 +77,6 @@ A batalha termina quando um dos pokemon fica sem pontos de vida. o jogador que c
 
                                 -----PROPOSTA ACADEMICA----
 
-O UniMon sera desenvolvido com o objetivo de transformar conceitos estudados em sala de aula em uma aolicacao pratica. 
+O UniMon sera desenvolvido com o objetivo de transformar conceitos estudados em sala de aula em uma aplicação pratica. 
 O projeto tambem busca estimular a criatividade e a resolucao de problemas atraves da construcao de uma aplicacao interativa do inicio afim.
 
